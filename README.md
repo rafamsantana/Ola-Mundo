@@ -1,2 +1,3 @@
-# Ola Mundo
- Repositório público da aula de Git e GitHub
+# Olá, Mundo!
+ Repositório público da aula de Git e GitHub.
+ 
